@@ -65,7 +65,7 @@ Make sure you have Python 3.x installed on your system.
 
 ## 📸 Screenshot Preview
 
-![Alt text](Media\gui.png)
+![Alt text](Media/gui.png)
 
 ---
 
