@@ -27,8 +27,8 @@ Make sure you have Python 3.x installed on your system.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<sherry657>/Invisibilty.git
-   cd Invisibilty.git
+   git clone https://github.com/sherry657/Invisibilty-Cloak.git
+   cd Invisibilty-Cloak.git
    ```
 
 2. **Install Required Libraries**:
